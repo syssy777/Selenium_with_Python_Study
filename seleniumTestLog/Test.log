@@ -1,0 +1,12 @@
+WARNING:root: This is Warning Message
+ERROR:root: This is Error Message
+CRITICAL:root: This is Critical Message
+
+
+DEBUG:root: This is Debug Message
+INFO:root: This is Info Message
+WARNING:root: This is Warning Message
+ERROR:root: This is Error Message
+CRITICAL:root: This is Critical Message
+
+
