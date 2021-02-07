@@ -83,8 +83,8 @@ print(password_elem.is_enabled())
 print('Password Entry cleared.', password_elem.clear())
 time.sleep(3)
 
-user_elem.send_keys("aklamasyssy@gmail.com")  # Sign-in
-password_elem.send_keys("Guitar247")
+user_elem.send_keys("aklamasyssy123@gmail.com")  # Sign-in
+password_elem.send_keys("***********")
 sign_in_btn = myBrowser.find_element_by_class_name("login__form_action_container ").click()    # Click a Button
 time.sleep(5)
 
